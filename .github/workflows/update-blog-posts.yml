@@ -1,0 +1,51 @@
+name: Update blog posts
+
+# The profile README reads the feeds itself. Doing it here rather than pushing
+# from Twodragon0/Blog means GITHUB_TOKEN is enough — no cross-repository PAT
+# has to be created, stored as a secret, or rotated.
+
+on:
+  schedule:
+    # 00:20 UTC daily. Offset from the hour because feed hosts are busiest on it.
+    - cron: '20 0 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/update_blog_posts.py'
+      - '.github/workflows/update-blog-posts.yml'
+
+# Two runs pushing to main at once would collide. Let the newer one win.
+concurrency:
+  group: update-blog-posts
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # No dependency install: the script is standard library only.
+      - name: Refresh post list
+        run: python scripts/update_blog_posts.py
+
+      - name: Commit if the list changed
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "No change to README.md."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: refresh blog posts in profile README"
+          git push
