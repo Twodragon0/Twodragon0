@@ -23,11 +23,11 @@ list silently drops the slower one.
 
 **[Tech Blog](https://tech.2twodragon.com)**
 
+- [2026년 09월 23일 주간 보안 다이제스트: 제로데이·패치·DNS 유출 (28건)](https://tech.2twodragon.com/posts/2026/09/23/Tech_Security_Weekly_Digest_Zero-Day_Patch_AI_GPT/)
 - [2026년 09월 22일 주간 보안 다이제스트: BYOVD EDR·북한 위협·제로데이 (29건)](https://tech.2twodragon.com/posts/2026/09/22/Tech_Security_Weekly_Digest_Threat_AI_Data_Go/)
 - [2026년 09월 21일 주간 보안 다이제스트: 악성코드·패치·DNS 유출 (14건)](https://tech.2twodragon.com/posts/2026/09/21/Tech_Security_Weekly_Digest_AI_AWS_Agent_Bitcoin/)
 - [2026년 09월 20일 주간 보안 다이제스트: 클라우드·제로데이·패치 (15건)](https://tech.2twodragon.com/posts/2026/09/20/Tech_Security_Weekly_Digest_AI_AWS_Security_Patch/)
 - [2026년 09월 19일 주간 보안 다이제스트: 클라우드·패치·제로데이 (30건)](https://tech.2twodragon.com/posts/2026/09/19/Tech_Security_Weekly_Digest_AWS_AI_Rust_Patch/)
-- [2026년 09월 18일 주간 보안 다이제스트: BYOVD EDR·AI 에이전트·클라우드 (30건)](https://tech.2twodragon.com/posts/2026/09/18/Tech_Security_Weekly_Digest_Cloud_AWS_AI_Malware/)
 
 **[Tistory](https://twodragon.tistory.com)**
 
@@ -37,7 +37,7 @@ list silently drops the slower one.
 - [클라우드 보안 과정 8기 6주차: AWS WAF/CloudFront 보안 아키텍처 및 GitHub DevSecOps 실전](https://twodragon.tistory.com/707)
 - [클라우드 시큐리티 과정 8기 5주차: AWS Control Tower/SCP 기반 거버넌스 및 Datadog SIEM, Cloudflare 보안](https://twodragon.tistory.com/706)
 
-<sub>Updated 2026-09-22 05:07 UTC — see <code>scripts/update_blog_posts.py</code></sub>
+<sub>Updated 2026-09-23 04:51 UTC — see <code>scripts/update_blog_posts.py</code></sub>
 
 <!-- BLOG-POSTS:END -->
 
