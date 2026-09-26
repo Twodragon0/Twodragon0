@@ -37,7 +37,7 @@ list silently drops the slower one.
 - [클라우드 보안 과정 8기 6주차: AWS WAF/CloudFront 보안 아키텍처 및 GitHub DevSecOps 실전](https://twodragon.tistory.com/707)
 - [클라우드 시큐리티 과정 8기 5주차: AWS Control Tower/SCP 기반 거버넌스 및 Datadog SIEM, Cloudflare 보안](https://twodragon.tistory.com/706)
 
-<sub>Updated 2026-09-25 05:04 UTC — see <code>scripts/update_blog_posts.py</code></sub>
+<sub>Updated 2026-09-26 05:07 UTC — see <code>scripts/update_blog_posts.py</code></sub>
 
 <!-- BLOG-POSTS:END -->
 
