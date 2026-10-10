@@ -23,11 +23,11 @@ list silently drops the slower one.
 
 **[Tech Blog](https://tech.2twodragon.com)**
 
+- [2026년 10월 10일 주간 보안 다이제스트: 패치·AI 에이전트·BYOVD EDR (27건)](https://tech.2twodragon.com/posts/2026/10/10/Tech_Security_Weekly_Digest_Data_Security_AI_Threat/)
 - [2026년 10월 09일 주간 보안 다이제스트: 클라우드·랜섬웨어·DNS 유출 (28건)](https://tech.2twodragon.com/posts/2026/10/09/Tech_Security_Weekly_Digest_AI_Threat_Ransomware_Data/)
 - [2026년 10월 08일 주간 보안 다이제스트: 악성코드·클라우드·AI 에이전트 (28건)](https://tech.2twodragon.com/posts/2026/10/08/Tech_Security_Weekly_Digest_AI_Go_Vulnerability_Patch/)
 - [2026년 10월 07일 주간 보안 다이제스트: 클라우드·AI 에이전트·클라우드 보안 (30건)](https://tech.2twodragon.com/posts/2026/10/07/Tech_Security_Weekly_Digest_GPT_AI_Security_AWS/)
 - [2026년 10월 06일 주간 보안 다이제스트: 제로데이·패치·AI 에이전트 (26건)](https://tech.2twodragon.com/posts/2026/10/06/Tech_Security_Weekly_Digest_AI_AWS_Security_Ransomware/)
-- [2026년 10월 05일 주간 보안 다이제스트: 제로데이·패치·AI 에이전트 (15건)](https://tech.2twodragon.com/posts/2026/10/05/Tech_Security_Weekly_Digest_Zero-Day_Patch_ML_AI/)
 
 **[Tistory](https://twodragon.tistory.com)**
 
@@ -37,7 +37,7 @@ list silently drops the slower one.
 - [클라우드 보안 과정 8기 7주차: Docker &amp; Kubernetes 보안 실전 가이드 - 컨테이너 보안부터 클러스터 보안까지](https://twodragon.tistory.com/708)
 - [클라우드 보안 과정 8기 6주차: AWS WAF/CloudFront 보안 아키텍처 및 GitHub DevSecOps 실전](https://twodragon.tistory.com/707)
 
-<sub>Updated 2026-10-09 06:17 UTC — see <code>scripts/update_blog_posts.py</code></sub>
+<sub>Updated 2026-10-10 06:00 UTC — see <code>scripts/update_blog_posts.py</code></sub>
 
 <!-- BLOG-POSTS:END -->
 
