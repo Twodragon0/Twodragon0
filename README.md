@@ -23,11 +23,11 @@ list silently drops the slower one.
 
 **[Tech Blog](https://tech.2twodragon.com)**
 
+- [2026년 10월 16일 주간 보안 다이제스트: 제로데이·클라우드·DNS 유출 (30건)](https://tech.2twodragon.com/posts/2026/10/16/Tech_Security_Weekly_Digest_Vulnerability_AI_Threat_Go/)
 - [2026년 10월 14일 주간 보안 다이제스트: 악성코드·AI 에이전트·클라우드 (29건)](https://tech.2twodragon.com/posts/2026/10/14/Tech_Security_Weekly_Digest_AI_Botnet_Docker_Go/)
 - [Istio Ambient Mesh ztunnel L4 mTLS와 Waypoint L7 무사이드카 보안 아키텍처](https://tech.2twodragon.com/posts/2026/10/13/Istio_Ambient_Mesh_ztunnel_L4_mTLS_Waypoint_Proxy_Architecture/)
 - [Sigstore Cosign v3 키리스 OIDC 서명과 SLSA Level 3 공급망 무결성 체계](https://tech.2twodragon.com/posts/2026/10/13/Sigstore_Cosign_v3_Keyless_OIDC_Signing_SLSA_Level_3_Supply_Chain_Security/)
 - [Cilium Tetragon 실시간 커널 레벨 런타임 격리와 인커널 SIGKILL 플레이북](https://tech.2twodragon.com/posts/2026/10/13/Cilium_Tetragon_Kernel_Level_Runtime_Enforcement_SIGKILL_Playbook/)
-- [2026년 10월 13일 주간 보안 다이제스트: 제로데이·랜섬웨어·악성코드 (30건)](https://tech.2twodragon.com/posts/2026/10/13/Tech_Security_Weekly_Digest_Threat_AI_Malware_ML/)
 
 **[Tistory](https://twodragon.tistory.com)**
 
@@ -37,7 +37,7 @@ list silently drops the slower one.
 - [클라우드 보안 과정 8기 8주차: CI/CD와 Kubernetes 보안 실전 가이드 - DevSecOps 파이프라인부터 클러스터 보안까지](https://twodragon.tistory.com/709)
 - [클라우드 보안 과정 8기 7주차: Docker &amp; Kubernetes 보안 실전 가이드 - 컨테이너 보안부터 클러스터 보안까지](https://twodragon.tistory.com/708)
 
-<sub>Updated 2026-10-15 04:49 UTC — see <code>scripts/update_blog_posts.py</code></sub>
+<sub>Updated 2026-10-16 04:40 UTC — see <code>scripts/update_blog_posts.py</code></sub>
 
 <!-- BLOG-POSTS:END -->
 
