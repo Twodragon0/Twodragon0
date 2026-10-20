@@ -37,7 +37,7 @@ list silently drops the slower one.
 - [클라우드 보안 과정 8기 8주차: CI/CD와 Kubernetes 보안 실전 가이드 - DevSecOps 파이프라인부터 클러스터 보안까지](https://twodragon.tistory.com/709)
 - [클라우드 보안 과정 8기 7주차: Docker &amp; Kubernetes 보안 실전 가이드 - 컨테이너 보안부터 클러스터 보안까지](https://twodragon.tistory.com/708)
 
-<sub>Updated 2026-10-19 04:51 UTC — see <code>scripts/update_blog_posts.py</code></sub>
+<sub>Updated 2026-10-20 04:59 UTC — see <code>scripts/update_blog_posts.py</code></sub>
 
 <!-- BLOG-POSTS:END -->
 
