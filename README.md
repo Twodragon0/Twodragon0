@@ -23,11 +23,11 @@ list silently drops the slower one.
 
 **[Tech Blog](https://tech.2twodragon.com)**
 
+- [2026년 10월 25일 주간 보안 다이제스트: BYOVD EDR·제로데이·블록체인 (15건)](https://tech.2twodragon.com/posts/2026/10/25/Tech_Security_Weekly_Digest_AI_Bitcoin/)
+- [2026년 10월 24일 주간 보안 다이제스트: 제로데이·AI 에이전트·패치 (25건)](https://tech.2twodragon.com/posts/2026/10/24/Tech_Security_Weekly_Digest_LLM_AI_Data_Go/)
 - [Falco 0.38 Modern eBPF 런타임 위협 탐지와 K8s 자동 격리 체계](https://tech.2twodragon.com/posts/2026/10/17/Falco_0_38_Modern_eBPF_Runtime_Threat_Detection_K8s_Automated_Response/)
 - [2026년 10월 16일 주간 보안 다이제스트: 제로데이·클라우드·DNS 유출 (30건)](https://tech.2twodragon.com/posts/2026/10/16/Tech_Security_Weekly_Digest_Vulnerability_AI_Threat_Go/)
 - [2026년 10월 14일 주간 보안 다이제스트: 악성코드·AI 에이전트·클라우드 (29건)](https://tech.2twodragon.com/posts/2026/10/14/Tech_Security_Weekly_Digest_AI_Botnet_Docker_Go/)
-- [Istio Ambient Mesh ztunnel L4 mTLS와 Waypoint L7 무사이드카 보안 아키텍처](https://tech.2twodragon.com/posts/2026/10/13/Istio_Ambient_Mesh_ztunnel_L4_mTLS_Waypoint_Proxy_Architecture/)
-- [Sigstore Cosign v3 키리스 OIDC 서명과 SLSA Level 3 공급망 무결성 체계](https://tech.2twodragon.com/posts/2026/10/13/Sigstore_Cosign_v3_Keyless_OIDC_Signing_SLSA_Level_3_Supply_Chain_Security/)
 
 **[Tistory](https://twodragon.tistory.com)**
 
@@ -37,7 +37,7 @@ list silently drops the slower one.
 - [클라우드 보안 과정 8기 8주차: CI/CD와 Kubernetes 보안 실전 가이드 - DevSecOps 파이프라인부터 클러스터 보안까지](https://twodragon.tistory.com/709)
 - [클라우드 보안 과정 8기 7주차: Docker &amp; Kubernetes 보안 실전 가이드 - 컨테이너 보안부터 클러스터 보안까지](https://twodragon.tistory.com/708)
 
-<sub>Updated 2026-10-24 04:45 UTC — see <code>scripts/update_blog_posts.py</code></sub>
+<sub>Updated 2026-10-25 04:52 UTC — see <code>scripts/update_blog_posts.py</code></sub>
 
 <!-- BLOG-POSTS:END -->
 
