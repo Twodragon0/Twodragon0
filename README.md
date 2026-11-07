@@ -23,21 +23,21 @@ list silently drops the slower one.
 
 **[Tech Blog](https://tech.2twodragon.com)**
 
+- [2026년 11월 07일 주간 보안 다이제스트: AI 에이전트·패치·쿠버네티스 (30건)](https://tech.2twodragon.com/posts/2026/11/07/Tech_Security_Weekly_Digest_Kubernetes_Security_AI_AWS/)
+- [2026년 11월 06일 주간 보안 다이제스트: 패치·AI 에이전트·클라우드 (30건)](https://tech.2twodragon.com/posts/2026/11/05/Tech_Security_Weekly_Digest_Threat_DeFi_AI_Cloud/)
 - [2026년 10월 27일 주간 보안 다이제스트: 제로데이·패치·랜섬웨어 (25건)](https://tech.2twodragon.com/posts/2026/10/27/Tech_Security_Weekly_Digest_Agent_Update_Security_Malware/)
 - [2026년 10월 26일 주간 보안 다이제스트: 클라우드·악성코드·BYOVD EDR (21건)](https://tech.2twodragon.com/posts/2026/10/26/Tech_Security_Weekly_Digest_AI_Malware_Agent/)
 - [2026년 10월 25일 주간 보안 다이제스트: BYOVD EDR·제로데이·블록체인 (15건)](https://tech.2twodragon.com/posts/2026/10/25/Tech_Security_Weekly_Digest_AI_Bitcoin/)
-- [2026년 10월 24일 주간 보안 다이제스트: 제로데이·AI 에이전트·패치 (25건)](https://tech.2twodragon.com/posts/2026/10/24/Tech_Security_Weekly_Digest_LLM_AI_Data_Go/)
-- [Falco 0.38 Modern eBPF 런타임 위협 탐지와 K8s 자동 격리 체계](https://tech.2twodragon.com/posts/2026/10/17/Falco_0_38_Modern_eBPF_Runtime_Threat_Detection_K8s_Automated_Response/)
 
 **[Tistory](https://twodragon.tistory.com)**
 
+- [클라우드 시큐리티 9기 3주차: AWS 보안 점검과 FinOps를 한 장의 운영표로 연결하기](https://twodragon.tistory.com/714)
 - [클라우드 시큐리티 9기 2주차: AWS 네트워크·보안 아키텍처와 FinOps, 데이터센터·CPU·GPU까지](https://twodragon.tistory.com/713)
 - [클라우드 시큐리티 9기 1주차 : 온프레미스 vs 클라우드 네트워크 아키텍처 비교부터 제로 트러스트 &amp; DevSecOps 핵심 정리](https://twodragon.tistory.com/712)
 - [클라우드 시큐리티 9기 OT: AI 시대의 DevSecOps, GPU 인프라, 그리고 대체 불가능한 보안 거버넌스](https://twodragon.tistory.com/711)
 - [클라우드 보안 과정 8기 9주차: DevSecOps 통합 및 AI 기반 보안 자동화](https://twodragon.tistory.com/710)
-- [클라우드 보안 과정 8기 8주차: CI/CD와 Kubernetes 보안 실전 가이드 - DevSecOps 파이프라인부터 클러스터 보안까지](https://twodragon.tistory.com/709)
 
-<sub>Updated 2026-11-06 06:57 UTC — see <code>scripts/update_blog_posts.py</code></sub>
+<sub>Updated 2026-11-07 06:09 UTC — see <code>scripts/update_blog_posts.py</code></sub>
 
 <!-- BLOG-POSTS:END -->
 
