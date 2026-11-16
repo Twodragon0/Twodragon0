@@ -23,11 +23,11 @@ list silently drops the slower one.
 
 **[Tech Blog](https://tech.2twodragon.com)**
 
+- [2026년 11월 16일 주간 보안 다이제스트: 패치·AI 에이전트·클라우드 (19건)](https://tech.2twodragon.com/posts/2026/11/16/Tech_Security_Weekly_Digest_AI_Cloud_Data_Go/)
 - [2026년 11월 15일 주간 보안 다이제스트: 제로데이·북한 위협·AI 에이전트 (15건)](https://tech.2twodragon.com/posts/2026/11/15/Tech_Security_Weekly_Digest_Security_AI_Bitcoin/)
 - [2026년 11월 14일 주간 보안 다이제스트: 제로데이·클라우드·패치 (28건)](https://tech.2twodragon.com/posts/2026/11/14/Tech_Security_Weekly_Digest_Patch_AWS_Cloud_AI/)
 - [2026년 11월 13일 주간 보안 다이제스트: 피싱·Linux 위협·클라우드 보안 (30건)](https://tech.2twodragon.com/posts/2026/11/13/Tech_Security_Weekly_Digest_Threat_Zero-Day_Security_AI/)
 - [2026년 11월 12일 주간 보안 다이제스트: 제로데이·클라우드·패치 (30건)](https://tech.2twodragon.com/posts/2026/11/12/Tech_Security_Weekly_Digest_AI_AWS/)
-- [2026년 11월 11일 주간 보안 다이제스트: 제로데이·패치·악성코드 (30건)](https://tech.2twodragon.com/posts/2026/11/11/Tech_Security_Weekly_Digest_Patch_AI_Agent_Data/)
 
 **[Tistory](https://twodragon.tistory.com)**
 
@@ -37,7 +37,7 @@ list silently drops the slower one.
 - [클라우드 시큐리티 9기 OT: AI 시대의 DevSecOps, GPU 인프라, 그리고 대체 불가능한 보안 거버넌스](https://twodragon.tistory.com/711)
 - [클라우드 보안 과정 8기 9주차: DevSecOps 통합 및 AI 기반 보안 자동화](https://twodragon.tistory.com/710)
 
-<sub>Updated 2026-11-15 06:45 UTC — see <code>scripts/update_blog_posts.py</code></sub>
+<sub>Updated 2026-11-16 06:43 UTC — see <code>scripts/update_blog_posts.py</code></sub>
 
 <!-- BLOG-POSTS:END -->
 
