@@ -37,7 +37,7 @@ list silently drops the slower one.
 - [클라우드 시큐리티 9기 OT: AI 시대의 DevSecOps, GPU 인프라, 그리고 대체 불가능한 보안 거버넌스](https://twodragon.tistory.com/711)
 - [클라우드 보안 과정 8기 9주차: DevSecOps 통합 및 AI 기반 보안 자동화](https://twodragon.tistory.com/710)
 
-<sub>Updated 2026-11-19 07:35 UTC — see <code>scripts/update_blog_posts.py</code></sub>
+<sub>Updated 2026-11-20 07:26 UTC — see <code>scripts/update_blog_posts.py</code></sub>
 
 <!-- BLOG-POSTS:END -->
 
