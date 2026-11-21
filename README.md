@@ -21,23 +21,15 @@ list silently drops the slower one.
 
 <!-- BLOG-POSTS:START -->
 
-**[Tech Blog](https://tech.2twodragon.com)**
-
-- [2026년 11월 19일 주간 보안 다이제스트: 클라우드·제로데이·AI 에이전트 (30건)](https://tech.2twodragon.com/posts/2026/11/19/Tech_Security_Weekly_Digest_AWS_Security_AI/)
-- [2026년 11월 18일 주간 보안 다이제스트: 클라우드·제로데이·패치 (30건)](https://tech.2twodragon.com/posts/2026/11/18/Tech_Security_Weekly_Digest_AI_AWS_CVE_Patch/)
-- [2026년 11월 16일 주간 보안 다이제스트: 패치·AI 에이전트·클라우드 (19건)](https://tech.2twodragon.com/posts/2026/11/16/Tech_Security_Weekly_Digest_AI_Cloud_Data_Go/)
-- [2026년 11월 15일 주간 보안 다이제스트: 제로데이·북한 위협·AI 에이전트 (15건)](https://tech.2twodragon.com/posts/2026/11/15/Tech_Security_Weekly_Digest_Security_AI_Bitcoin/)
-- [2026년 11월 14일 주간 보안 다이제스트: 제로데이·클라우드·패치 (28건)](https://tech.2twodragon.com/posts/2026/11/14/Tech_Security_Weekly_Digest_Patch_AWS_Cloud_AI/)
-
 **[Tistory](https://twodragon.tistory.com)**
 
+- [클라우드 시큐리티 9기 4주차: 자산 목록에서 ISMS-P 증적까지, 점검 결과를 개선 과제로 닫기](https://twodragon.tistory.com/715)
 - [클라우드 시큐리티 9기 3주차: AWS 보안 점검과 FinOps를 한 장의 운영표로 연결하기](https://twodragon.tistory.com/714)
 - [클라우드 시큐리티 9기 2주차: AWS 네트워크·보안 아키텍처와 FinOps, 데이터센터·CPU·GPU까지](https://twodragon.tistory.com/713)
 - [클라우드 시큐리티 9기 1주차 : 온프레미스 vs 클라우드 네트워크 아키텍처 비교부터 제로 트러스트 &amp; DevSecOps 핵심 정리](https://twodragon.tistory.com/712)
 - [클라우드 시큐리티 9기 OT: AI 시대의 DevSecOps, GPU 인프라, 그리고 대체 불가능한 보안 거버넌스](https://twodragon.tistory.com/711)
-- [클라우드 보안 과정 8기 9주차: DevSecOps 통합 및 AI 기반 보안 자동화](https://twodragon.tistory.com/710)
 
-<sub>Updated 2026-11-20 07:26 UTC — see <code>scripts/update_blog_posts.py</code></sub>
+<sub>Updated 2026-11-21 07:21 UTC — see <code>scripts/update_blog_posts.py</code></sub>
 
 <!-- BLOG-POSTS:END -->
 
