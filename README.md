@@ -29,7 +29,7 @@ list silently drops the slower one.
 - [클라우드 시큐리티 9기 1주차 : 온프레미스 vs 클라우드 네트워크 아키텍처 비교부터 제로 트러스트 &amp; DevSecOps 핵심 정리](https://twodragon.tistory.com/712)
 - [클라우드 시큐리티 9기 OT: AI 시대의 DevSecOps, GPU 인프라, 그리고 대체 불가능한 보안 거버넌스](https://twodragon.tistory.com/711)
 
-<sub>Updated 2026-11-24 10:02 UTC — see <code>scripts/update_blog_posts.py</code></sub>
+<sub>Updated 2026-11-25 08:47 UTC — see <code>scripts/update_blog_posts.py</code></sub>
 
 <!-- BLOG-POSTS:END -->
 
