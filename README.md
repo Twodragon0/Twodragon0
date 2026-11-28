@@ -23,13 +23,13 @@ list silently drops the slower one.
 
 **[Tistory](https://twodragon.tistory.com)**
 
+- [클라우드 시큐리티 9기 5주차: AWS Control Tower와 SCP로 여러 계정의 감사 로그 지키기](https://twodragon.tistory.com/716)
 - [클라우드 시큐리티 9기 4주차: 자산 목록에서 ISMS-P 증적까지, 점검 결과를 개선 과제로 닫기](https://twodragon.tistory.com/715)
 - [클라우드 시큐리티 9기 3주차: AWS 보안 점검과 FinOps를 한 장의 운영표로 연결하기](https://twodragon.tistory.com/714)
 - [클라우드 시큐리티 9기 2주차: AWS 네트워크·보안 아키텍처와 FinOps, 데이터센터·CPU·GPU까지](https://twodragon.tistory.com/713)
 - [클라우드 시큐리티 9기 1주차 : 온프레미스 vs 클라우드 네트워크 아키텍처 비교부터 제로 트러스트 &amp; DevSecOps 핵심 정리](https://twodragon.tistory.com/712)
-- [클라우드 시큐리티 9기 OT: AI 시대의 DevSecOps, GPU 인프라, 그리고 대체 불가능한 보안 거버넌스](https://twodragon.tistory.com/711)
 
-<sub>Updated 2026-11-27 08:45 UTC — see <code>scripts/update_blog_posts.py</code></sub>
+<sub>Updated 2026-11-28 07:59 UTC — see <code>scripts/update_blog_posts.py</code></sub>
 
 <!-- BLOG-POSTS:END -->
 
